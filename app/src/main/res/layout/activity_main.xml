@@ -10,7 +10,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-
+    git remote add origin https://github.com/malikalichsan/array-adapter.git
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"></ListView>
