@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:textColor="@android:color/white"
         android:background="@color/colorAccent"
-        android:text="Simpan"
+        android:text="@string/button"
         android:id="@+id/simpan"
         android:textStyle="bold" />
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Demo Array Adapter</string>
+    <string name="button">Save</string>
 </resources>
