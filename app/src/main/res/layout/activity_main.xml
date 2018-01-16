@@ -12,7 +12,7 @@
         android:id="@+id/edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Type Here" />
+        android:hint="@string/type_here" />
 
     <Button
         android:layout_width="match_parent"
