@@ -20,8 +20,7 @@
         android:textColor="@android:color/white"
         android:background="@color/colorAccent"
         android:text="@string/button"
-        android:id="@+id/simpan"
-        android:textStyle="bold" />
+        android:id="@+id/simpan" />
 
     <ListView
         android:id="@+id/listview"
