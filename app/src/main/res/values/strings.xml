@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Demo Array Adapter</string>
+    <string name="app_name">Array Adapter</string>
     <string name="button">Save</string>
     <string name="type_here">Type Here</string>
 </resources>
